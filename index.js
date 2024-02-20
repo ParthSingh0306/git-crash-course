@@ -9,3 +9,5 @@ function sayName() {
 function newFunc() {
   console.log("Hey i am a new Func!!");
 }
+
+console.log("Another line");
