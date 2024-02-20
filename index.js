@@ -11,3 +11,4 @@ function newFunc() {
 }
 
 console.log("Another line");
+console.log("Another 2nd line");
