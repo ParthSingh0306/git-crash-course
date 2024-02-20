@@ -5,3 +5,7 @@ const dob = "03/06/2003";
 function sayName() {
   console.log("My name is ", name1);
 }
+
+function newFunc() {
+  console.log("Hey i am a new Func!!");
+}
