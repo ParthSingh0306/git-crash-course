@@ -12,4 +12,5 @@ function newFunc() {
 
 function newFeatureAdd() {
   console.log("Added new Feature!!");
+  console.log("Added new Feature A!!");
 }
